@@ -1,0 +1,21 @@
+{
+  "name": "facebook-picture-post",
+  "version": "0.0.1",
+  "homepage": "https://github.com/marcelijanowski/facebook-picture-post",
+  "authors": [
+    "Marceli Janowski <marceli@mjdesign.pl>"
+  ],
+  "description": "Facebook picture post",
+  "dependencies": {
+    "lodash": "2.4.1",
+    "requirejs": "2.1.11",
+  },
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
