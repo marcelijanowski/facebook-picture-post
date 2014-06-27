@@ -4,7 +4,8 @@
   "description": "Facebook picture posting without backend",
   "main": "index.js",
   "scripts": {
-    "test": "karma start karma.conf.js"
+    "test": "karma start karma.conf.js",
+    "post": "bower install"
   },
   "repository": {
     "type": "git",
