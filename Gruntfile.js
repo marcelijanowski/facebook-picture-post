@@ -6,4 +6,4 @@ module.exports = function (grunt) {
   grunt.registerTask('default', 'run the server and watch for changes', [
     'express'
   ]);
-});
+};
