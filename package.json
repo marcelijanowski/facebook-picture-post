@@ -1,0 +1,24 @@
+{
+  "name": "facebook-picture-post",
+  "version": "0.0.1",
+  "description": "Facebook picture posting without backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start karma.conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/marcelijanowski/facebook-picture-post.git"
+  },
+  "keywords": [
+    "faceboook",
+    "image",
+    "post"
+  ],
+  "author": "Marceli Janowski <marceli@mjdesign.pl>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcelijanowski/facebook-picture-post/issues"
+  },
+  "homepage": "https://github.com/marcelijanowski/facebook-picture-post"
+}
